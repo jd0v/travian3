@@ -1,0 +1,3 @@
+JD:barracks,g19,aid19;marketplace,g17,aid20;smithy,g13,aid21;cranny,g23,aid22;residence,g25,aid24;main building,g15,aid26;embassy,g18,aid27;academy,g22,aid28;iron foundry,g7,aid29;granary,g11,aid30;warehouse,g10,aid31;brickyard,g6,aid33;grain mill,g8,aid34;sawmill,g5,aid36;stable,g20,aid37;rally point,g16,aid39;wall,g31Top,aid40
+nps:main building,g15,aid26;granary,g11,aid30;warehouse,g10,aid31;rally point,g16,aid39;wall,g31Top,aid40
+sirvys:barracks,g19,aid19;marketplace,g17,aid20;smithy,g13,aid21;cranny,g23,aid22;residence,g25,aid24;main building,g15,aid26;academy,g22,aid28;granary,g11,aid30;warehouse,g10,aid31;stable,g20,aid37;rally point,g16,aid39;wall,g31Top,aid40
