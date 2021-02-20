@@ -1,0 +1,3 @@
+website;nickname;password
+https://tx3.travian.si     ciumbalumba     jkl;fdsa
+https://tx3.travian.no     ciumbalumba     jkl;fdsa
